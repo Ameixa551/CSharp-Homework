@@ -1,0 +1,16 @@
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\bin\Debug\netcoreapp3.1\Homework01-2.exe
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\bin\Debug\netcoreapp3.1\Homework01-2.deps.json
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\bin\Debug\netcoreapp3.1\Homework01-2.runtimeconfig.json
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\bin\Debug\netcoreapp3.1\Homework01-2.runtimeconfig.dev.json
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\bin\Debug\netcoreapp3.1\Homework01-2.dll
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\bin\Debug\netcoreapp3.1\Homework01-2.pdb
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\obj\Debug\netcoreapp3.1\Homework01-2.csproj.AssemblyReference.cache
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\obj\Debug\netcoreapp3.1\Homework01_2.Form1.resources
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\obj\Debug\netcoreapp3.1\Homework01-2.csproj.GenerateResource.cache
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\obj\Debug\netcoreapp3.1\Homework01-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\obj\Debug\netcoreapp3.1\Homework01-2.AssemblyInfoInputs.cache
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\obj\Debug\netcoreapp3.1\Homework01-2.AssemblyInfo.cs
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\obj\Debug\netcoreapp3.1\Homework01-2.csproj.CoreCompileInputs.cache
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\obj\Debug\netcoreapp3.1\Homework01-2.dll
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\obj\Debug\netcoreapp3.1\Homework01-2.pdb
+D:\Ameixa\学习\大二下\软件构造基础\Homework01-0218\Homework01-0218\Homework01-2\obj\Debug\netcoreapp3.1\Homework01-2.genruntimeconfig.cache
