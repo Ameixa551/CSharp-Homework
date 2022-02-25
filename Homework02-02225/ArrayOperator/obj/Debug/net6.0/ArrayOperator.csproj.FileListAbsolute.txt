@@ -1,0 +1,15 @@
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\obj\Debug\net6.0\ArrayOperator.csproj.AssemblyReference.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\obj\Debug\net6.0\ArrayOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\obj\Debug\net6.0\ArrayOperator.AssemblyInfoInputs.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\obj\Debug\net6.0\ArrayOperator.AssemblyInfo.cs
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\obj\Debug\net6.0\ArrayOperator.csproj.CoreCompileInputs.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\bin\Debug\net6.0\ArrayOperator.exe
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\bin\Debug\net6.0\ArrayOperator.deps.json
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\bin\Debug\net6.0\ArrayOperator.runtimeconfig.json
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\bin\Debug\net6.0\ArrayOperator.dll
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\bin\Debug\net6.0\ArrayOperator.pdb
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\obj\Debug\net6.0\ArrayOperator.dll
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\obj\Debug\net6.0\refint\ArrayOperator.dll
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\obj\Debug\net6.0\ArrayOperator.pdb
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\obj\Debug\net6.0\ArrayOperator.genruntimeconfig.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\ArrayOperator\obj\Debug\net6.0\ref\ArrayOperator.dll

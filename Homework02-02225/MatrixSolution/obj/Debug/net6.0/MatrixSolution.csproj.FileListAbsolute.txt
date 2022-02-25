@@ -1,0 +1,15 @@
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\bin\Debug\net6.0\MatrixSolution.exe
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\bin\Debug\net6.0\MatrixSolution.deps.json
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\bin\Debug\net6.0\MatrixSolution.runtimeconfig.json
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\bin\Debug\net6.0\MatrixSolution.dll
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\bin\Debug\net6.0\MatrixSolution.pdb
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\obj\Debug\net6.0\MatrixSolution.csproj.AssemblyReference.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\obj\Debug\net6.0\MatrixSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\obj\Debug\net6.0\MatrixSolution.AssemblyInfoInputs.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\obj\Debug\net6.0\MatrixSolution.AssemblyInfo.cs
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\obj\Debug\net6.0\MatrixSolution.csproj.CoreCompileInputs.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\obj\Debug\net6.0\MatrixSolution.dll
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\obj\Debug\net6.0\refint\MatrixSolution.dll
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\obj\Debug\net6.0\MatrixSolution.pdb
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\obj\Debug\net6.0\MatrixSolution.genruntimeconfig.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\MatrixSolution\obj\Debug\net6.0\ref\MatrixSolution.dll

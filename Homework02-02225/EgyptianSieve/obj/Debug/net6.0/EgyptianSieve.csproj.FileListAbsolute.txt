@@ -1,0 +1,15 @@
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\obj\Debug\net6.0\EgyptianSieve.csproj.AssemblyReference.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\obj\Debug\net6.0\EgyptianSieve.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\obj\Debug\net6.0\EgyptianSieve.AssemblyInfoInputs.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\obj\Debug\net6.0\EgyptianSieve.AssemblyInfo.cs
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\obj\Debug\net6.0\EgyptianSieve.csproj.CoreCompileInputs.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\bin\Debug\net6.0\EgyptianSieve.exe
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\bin\Debug\net6.0\EgyptianSieve.deps.json
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\bin\Debug\net6.0\EgyptianSieve.runtimeconfig.json
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\bin\Debug\net6.0\EgyptianSieve.dll
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\bin\Debug\net6.0\EgyptianSieve.pdb
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\obj\Debug\net6.0\EgyptianSieve.dll
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\obj\Debug\net6.0\refint\EgyptianSieve.dll
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\obj\Debug\net6.0\EgyptianSieve.pdb
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\obj\Debug\net6.0\EgyptianSieve.genruntimeconfig.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\EgyptianSieve\obj\Debug\net6.0\ref\EgyptianSieve.dll

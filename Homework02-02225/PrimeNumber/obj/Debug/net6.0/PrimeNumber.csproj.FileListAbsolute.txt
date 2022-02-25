@@ -1,0 +1,15 @@
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\bin\Debug\net6.0\PrimeNumber.exe
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\bin\Debug\net6.0\PrimeNumber.deps.json
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\bin\Debug\net6.0\PrimeNumber.runtimeconfig.json
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\bin\Debug\net6.0\PrimeNumber.dll
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\bin\Debug\net6.0\PrimeNumber.pdb
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\obj\Debug\net6.0\PrimeNumber.csproj.AssemblyReference.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\obj\Debug\net6.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\obj\Debug\net6.0\PrimeNumber.AssemblyInfoInputs.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\obj\Debug\net6.0\PrimeNumber.AssemblyInfo.cs
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\obj\Debug\net6.0\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\obj\Debug\net6.0\PrimeNumber.dll
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\obj\Debug\net6.0\refint\PrimeNumber.dll
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\obj\Debug\net6.0\PrimeNumber.pdb
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\obj\Debug\net6.0\PrimeNumber.genruntimeconfig.cache
+D:\Ameixa\学习\大二下\软件构造基础\CSharp-Homework\Homework02-02225\PrimeNumber\obj\Debug\net6.0\ref\PrimeNumber.dll
